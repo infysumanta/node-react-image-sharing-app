@@ -1,1 +1,1 @@
-# node-react-image-sharing-app
+# node-react-book-store-app
